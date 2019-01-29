@@ -5,3 +5,4 @@ git add *.* //提交到暂存区
 git commit *.*//提交仓库区
 git log //查看提交记录
 git log --pretty=online //查看提交记录,忽略具体信息
+git reset --hard HEAD^ //回退到上个版本,^^回退到上个版本
