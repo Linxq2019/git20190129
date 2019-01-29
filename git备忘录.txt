@@ -1,0 +1,3 @@
+git config --global user.name "Linxq"
+git config --global user.email "563122298.com"
+git status //查看
