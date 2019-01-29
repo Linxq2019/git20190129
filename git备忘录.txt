@@ -1,3 +1,5 @@
 git config --global user.name "Linxq"
 git config --global user.email "563122298.com"
 git status //查看
+git add *.* //提交到暂存区
+git commit *.*//提交仓库区
